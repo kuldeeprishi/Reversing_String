@@ -38,4 +38,9 @@ print "Method 4 : (Using Extended Slice)","\t"*2,"==>  ", string[::-1]
 
 
 
+# Timings for these methods can be found at
+# https://gist.github.com/IlianIliev/6056557
+
+
+
 
