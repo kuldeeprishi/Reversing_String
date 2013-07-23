@@ -37,7 +37,5 @@ print "Method 3 : (Using join with reversed)","\t"*1,"==>  ", "".join(reversed(s
 print "Method 4 : (Using Extended Slice)","\t"*2,"==>  ", string[::-1]
 
 
-# Method 5  :  Using Inbuilt function
-# =================================
-print "Method 5 : (Using Inbuilt function)","\t"*1,"==>  ", reverse(string)
+
 
